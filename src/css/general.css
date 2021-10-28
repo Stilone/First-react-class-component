@@ -1,0 +1,39 @@
+.charCards {
+    margin: 0 auto;
+    width: 1100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.charCard {
+    margin: 0 auto;
+    width: 350px;
+}
+
+.linkBtn {
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+}
+
+.cardContentHeader {
+    margin-left: 55px;
+}
+
+.cardContentFooter {
+    display: flex;
+}
+
+.pagination {
+    margin: 20px 0 0 590px;
+}
+
+.favorites {
+    display: flex;
+    margin: 0 0 20px 590px;
+}
+
+.loading {
+    margin: 0 auto;
+}
+
