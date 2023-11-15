@@ -40,6 +40,6 @@ This project marks my first foray into writing React components using class synt
 3. Install dependencies: `npm install`
 4. Start the project: `npm start`
 
-Feel free to explore, modify, and share your thoughts. This README is a testament to progress and a reminder that every step forward is a step toward mastery.
+This README is a testament to progress and a reminder that every step forward is a step toward mastery.
 
 ---
