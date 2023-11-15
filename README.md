@@ -35,8 +35,8 @@ This project marks my first foray into writing React components using class synt
 
 ## How to Run the Project
 
-1. Clone the repository: `git clone https://github.com/your-username/your-project.git`
-2. Navigate to the project directory: `cd your-project`
+1. Clone the repository: `git clone https://github.com/your-username/First-react-class-component`
+2. Navigate to the project directory: `cd First-react-class-component`
 3. Install dependencies: `npm install`
 4. Start the project: `npm start`
 
