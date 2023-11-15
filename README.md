@@ -16,9 +16,7 @@ _______________________________________________________________________
 
 > "Not knowing the past, you cannot see the future." - Ursula K. Le Guin
 
-In the world of code, understanding where we came from is crucial to shaping where we are headed. The following text is a reflection on my journey, a snapshot of growth and evolution.
-
-Two years ago, I didn't pay much attention to crafting README files. The text above stands as evidence. Back then, honing my skills and advancing to new horizons was my primary focus. I didn't know why, but at that time, refining my abilities and expanding my skill set took precedence. Now, I sit and edit each file, enjoying the results. Over time, I've come to appreciate witnessing the evolution of my code style, the approaches I use, and even the struggle with naming variables and components 😄.
+Two years ago, creating detailed README files wasn't a priority for me, as evidenced by the preceding text. During that period, my main emphasis was on improving my skills and exploring new territories in the realm of coding. Although I didn't fully comprehend the significance at the time, refining my abilities and broadening my skill set took precedence. Now, as I revisit and edit each file, I find satisfaction in observing tangible results. Over the years, I've developed an appreciation for tracking the evolution of my coding style, the strategies I employ, and even the ongoing challenge of naming variables and components 😄.
 
 ![Project Screenshot](https://sun9-42.userapi.com/impg/B-MOtIH7i-6tQcHLSjdDJrMkLUaEPviCBtGKsw/cJk2kz89EQc.jpg?size=1148x726&quality=96&sign=e0ed2486cbf7ceeb294f53947e72b175&type=album)
 
