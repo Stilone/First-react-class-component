@@ -12,7 +12,7 @@ npm i
 npm start
 ```
 
-_______________________________________________________________________
+---
 
 > "Not knowing the past, you cannot see the future." - Ursula K. Le Guin
 
