@@ -43,3 +43,4 @@ This project marks my first foray into writing React components using class synt
 This README is a testament to progress and a reminder that every step forward is a step toward mastery.
 
 ---
+
